@@ -1,3 +1,5 @@
+# Author 
+Rahmanu Hermawan
 # About
 In the beginning, this app is intended to be my wife's pregnancy log. She
 measures her body weight and abdominal circuference every week. I got an idea
@@ -11,4 +13,5 @@ But again, this logger is a manual logger. So you need to input the data manuall
 
 # Usage
 To run the app, just type `node very-simple-logger`, then open http://127.0.0.1:3000 
-on your browser.
+on your browser and log some data. For example, I want to log my weight: http://127.0.0.1:3000/72.6.
+Then it will automatically add 72.6 kg to log.txt and show it to browser.
